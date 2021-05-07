@@ -52,7 +52,7 @@ require "header.php";
 							<td style="text-align: center;">Correction</td>
 						</tr>
 						</tr>
-						<td class="tbl-cnt" rowspan="5" style="text-align: center;"><img src="images/class-meca.jpg" alt=""></td>
+						<td class="tbl-cnt" rowspan="6" style="text-align: center;"><img src="images/class-meca.jpg" alt=""></td>
 							<td><a href="pdfs/MP/sup-ex/phy/TD Cinematique.pdf" target="_blank">TD Cinematique</a></td>
 							<td><a href="pdfs/MP/sup-ex/phy/Correction TD Cinematique.pdf" target="_blank">Correction TD Cinematique</a></td>
 						</tr>
@@ -73,11 +73,11 @@ require "header.php";
 							<td><a href="pdfs/MP/sup-ex/phy/Correction TD Moment Cinetique Et Solide En Rotation.pdf" target="_blank">Correction TD Moment Cinetique Et Solide En Rotation</a></td>
 						</tr>
 						<tr>
-							<td class="tbl-cnt" rowspan="7" style="text-align: center;"><img src="images/electronics.jpg" alt=""></td>
 							<td><a href="pdfs/MP/sup-ex/phy/TD Modele De L'Oscillateur Harmonique.pdf" target="_blank">TD Modele De L'Oscillateur Harmonique</a></td>
 							<td><a href="pdfs/MP/sup-ex/phy/Correction TD Modele De L'Oscillateur Harmonique.pdf" target="_blank">Correction TD Modele De L'Oscillateur Harmonique</a></td>
 						</tr>
-						<tr class="tbl-cnt">
+						<tr>
+							<td class="tbl-cnt" rowspan="6" style="text-align: center;"><img src="images/electronics.jpg" alt=""></td>
 							<td><a href="pdfs/MP/sup-ex/phy/TD Notion De Signal.pdf" target="_blank">TD Notion De Signal</a></td>
 							<td><a href="pdfs/MP/sup-ex/phy/Correction TD Notion De Signal.pdf" target="_blank">Correction TD Notion De Signal</a></td>
 						</tr>

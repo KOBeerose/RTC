@@ -39,7 +39,7 @@ require "header.php";
 				<div class="col-md-6 col-md-offset-3 text-center fh5co-heading">
 					<h2><?php echo $row['11']['important'] . ' ' . $row['8']['page_header'] . 's' ?></h2>
 					<p><?php echo $row['16']['page_content'] ?><a href="<?php echo "upload-form.php?language=" . $language ?>" target="_blank"><?php echo $row['12']['important'] ?></a></p>
-					<p><?php echo $row['15']['page_content'] ?><a href="pdfs/TSI/cnc/si/TSI Si CNC.rar" download ><?php echo $row['12']['important'] ?></a></p>
+					<p><?php echo $row['15']['page_content'] ?><a href="pdfs/TSI/cnc/si/TSI SI CNC.rar" download ><?php echo $row['12']['important'] ?></a></p>
 				</div>
 			</div>
 			<div class="table">
@@ -201,7 +201,7 @@ require "header.php";
 						</tr>
 						<tr class="tbl-cnt">
 							<td><?php echo $row['3']['subjects'] ?></td>
-							<td><a href="pdfs/TSI/cnc/si/CNC 2018 Ge TSI.pdf" target="_blank"><?php echo $row['8']['page_header'] ?></a></td>
+							<td><a href="pdfs/TSI/cnc/si/CNC 2018 Gm TSI.pdf" target="_blank"><?php echo $row['8']['page_header'] ?></a></td>
 							<td><a href="pdfs/TSI/cnc/si/CNC 2018 Gm Correction TSI.pdf" target="_blank">Correction</a></td>
 						</tr>
 						<tr>
@@ -218,14 +218,15 @@ require "header.php";
 						<tr>
 							<td class="tbl-cnt" rowspan="2" style="text-align: center;">2020</td>
 							<td><?php echo $row['4']['subjects'] ?></td>
-							<td><a href="pdfs/TSI/cnc/si/link" target="_blank"><?php echo $row['8']['page_header'] ?></a></td>
+							<td><a href="pdfs/TSI/cnc/si/CNC 2020 Ge TSI.pdf" target="_blank"><?php echo $row['8']['page_header'] ?></a></td>
 							<td>-</td>
 						</tr>
 						<tr class="tbl-cnt">
 							<td><?php echo $row['3']['subjects'] ?></td>
-							<td>-</td>
+							<td><a href="pdfs/TSI/cnc/si/CNC 2020 Gm TSI.pdf" target="_blank"><?php echo $row['8']['page_header'] ?></a></td>
 							<td>-</td>
 						</tr>
+
 					</table>
 
 

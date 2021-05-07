@@ -67,7 +67,7 @@ require "header.php";
 							<td><a href="pdfs/MP/spe-crs/phy/Math Tools/Formulaire De Derivation Et De Primitives.pdf" target="_blank">Formulaire De Derivation Et De Primitives</a></td>
 						</tr>
 						<tr class="tbl-cnt">
-							<td><a href="pdfs/MP/spe-crs/phy/Math Tools/Formulaire De Developpements Limites2.pdf" target="_blank">Formulaire De Developpements Limites</a></td>
+							<td><a href="pdfs/MP/spe-crs/phy/Math Tools/Formulaire De Developpements Limites.pdf" target="_blank">Formulaire De Developpements Limites</a></td>
 						</tr>
 						<tr class="tbl-cnt">
 							<td><a href="pdfs/MP/spe-crs/phy/Math Tools/Operateur Differentiel Gradient.pdf" target="_blank">Operateur Differentiel Gradient</a></td>

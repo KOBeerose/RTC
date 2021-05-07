@@ -69,7 +69,7 @@ require "header.php";
 							<td><a href="pdfs/MP/sup-ex/si/TD + Correction Cinematique.pdf" target="_blank">Correction TD Cinematique</a></td>
 						</tr>
 						<tr>
-							<td class="tbl-cnt" rowspan="4" style="text-align: center;"><img src="images/electronics1'.jpg" alt=""></td>
+							<td class="tbl-cnt" rowspan="4" style="text-align: center;"><img src="images/electronics1'.JPG" alt=""></td>
 							<td><a href="pdfs/MP/sup-ex/si/TD asservissement.pdf" target="_blank">TD asservissement</a></td>
 							<td><a href="pdfs/MP/sup-ex/si/Correction TD asservissement.pdf" target="_blank">Correction TD asservissement</a></td>
 						</tr>

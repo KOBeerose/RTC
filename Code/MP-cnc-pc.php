@@ -39,7 +39,7 @@ require "header.php";
 				<div class="col-md-6 col-md-offset-3 text-center fh5co-heading">
 					<h2><?php echo $row['11']['important'] . ' ' . $row['8']['page_header'] . 's' ?></h2>
 					<p><?php echo $row['16']['page_content'] ?><a href="<?php echo "upload-form.php?language=" . $language ?>" target="_blank"><?php echo $row['12']['important'] ?></a></p>
-					<p><?php echo $row['15']['page_content'] ?><a href="pdfs/MP/cnc/pc/MP Pc CNC.rar" download ><?php echo $row['12']['important'] ?></a></p>
+					<p><?php echo $row['15']['page_content'] ?><a href="pdfs/MP/cnc/pc/MP PC CNC.rar" download ><?php echo $row['12']['important'] ?></a></p>
 				</div>
 			</div>
 			<div class="table">
@@ -272,7 +272,8 @@ require "header.php";
 						<tr class="tbl-cnt">
 							<td><?php echo $row['1']['subjects'] ?></td>
 							<td><a href="pdfs/MP/cnc/pc/CNC 2013 Chimie MP.pdf" target="_blank"><?php echo $row['8']['page_header'] ?></a></td>
-							<td>-</td>
+							<td><a href="pdfs/MP/cnc/pc/CNC 2013 Chimie MP Correction.pdf" target="_blank">Correction</a></td>
+
 						</tr>
 						<tr>
 							<td class="tbl-cnt" rowspan="3" style="text-align: center;">2014</td>
@@ -374,7 +375,7 @@ require "header.php";
 							<td class="tbl-cnt" rowspan="2" style="text-align: center;">2020</td>
 							<td>Physics</td>
 							<td><a href="pdfs/MP/cnc/pc/CNC 2020 Physique MP.pdf" target="_blank"><?php echo $row['8']['page_header'] ?></a></td>
-							<td>-</td>
+							<td><a href="pdfs/MP/cnc/pc/CNC 2020 Physique MP Correction.pdf" target="_blank">Correction</a></td>
 						</tr>
 						<tr class="tbl-cnt">
 							<td><?php echo $row['1']['subjects'] ?></td>

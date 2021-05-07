@@ -97,19 +97,19 @@ require "header.php";
 							<td><a href="pdfs/TSI/sup-crs/phy/Electromagnétisme - Chapitre 2  L’induction électromagnétique.pdf" target="_blank">Electromagnétisme - Chapitre 2  L’induction électromagnétique</a></td>
 						</tr>
 							<td class="tbl-cnt" rowspan="5" style="text-align: center;"><img src="images/optics.JPG" alt=""></td>
-							<td><a href="pdfs/TSI/sup-crs/phy/2.pdf" target="_blank">Ondes - Chapitre 1  Introduction aux ondes</a></td>
+							<td><a href="pdfs/TSI/sup-crs/phy/Ondes - Chapitre 1  Introduction aux ondes.pdf" target="_blank">Ondes - Chapitre 1  Introduction aux ondes</a></td>
 						</tr>
 						<tr class="tbl-cnt">
-							<td><a href="pdfs/TSI/sup-crs/phy/2.pdf" target="_blank">Optique - Chapitre 1  Introduction à l’optique géométrique</a></td>
+							<td><a href="pdfs/TSI/sup-crs/phy/Optique - Chapitre 1  Introduction à l’optique géométrique.pdf" target="_blank">Optique - Chapitre 1  Introduction à l’optique géométrique</a></td>
 						</tr>
 						<tr class="tbl-cnt">
-							<td><a href="pdfs/TSI/sup-crs/phy/2.pdf" target="_blank">Optique - Chapitre 2  Formation des images</a></td>
+							<td><a href="pdfs/TSI/sup-crs/phy/Optique - Chapitre 2  Formation des images.pdf" target="_blank">Optique - Chapitre 2  Formation des images</a></td>
 						</tr>
 						<tr class="tbl-cnt">
-							<td><a href="pdfs/TSI/sup-crs/phy/2.pdf" target="_blank">Optique - Chapitre 3  Lentilles minces sphériques</a></td>
+							<td><a href="pdfs/TSI/sup-crs/phy/Optique - Chapitre 3  Lentilles minces sphériques.pdf" target="_blank">Optique - Chapitre 3  Lentilles minces sphériques</a></td>
 						</tr>
 						<tr class="tbl-cnt">
-							<td><a href="pdfs/TSI/sup-crs/phy/2.pdf" target="_blank">Optique - Chapitre 4  Modèle corpusculaire de la lumière</a></td>
+							<td><a href="pdfs/TSI/sup-crs/phy/Optique - Chapitre 4  Modèle corpusculaire de la lumières.pdf" target="_blank">Optique - Chapitre 4  Modèle corpusculaire de la lumière</a></td>
 						</tr>
 					</table>
 

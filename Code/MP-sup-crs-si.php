@@ -51,7 +51,7 @@ require "header.php";
 							<td style="text-align: center;"><?php echo $row['2']['page_header'] ?></td>
 						</tr>
 						<tr>
-							<td class="tbl-cnt" rowspan="8" style="text-align: center;"><img src="images/electronics1'.jpg" alt=""></td>
+							<td class="tbl-cnt" rowspan="8" style="text-align: center;"><img src="images/electronics1'.JPG" alt=""></td>
 							<td><a href="pdfs/MP/sup-crs/si/Generalites.pdf" target="_blank">Generalites</a></td>
 						</tr>
 						<tr class="tbl-cnt">

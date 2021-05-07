@@ -39,7 +39,7 @@ require "header.php";
 				<div class="col-md-6 col-md-offset-3 text-center fh5co-heading">
 					<h2><?php echo $row['11']['important'] . ' ' . $row['8']['page_header'] . 's' ?></h2>
 					<p><?php echo $row['16']['page_content'] ?><a href="<?php echo "upload-form.php?language=" . $language ?>" target="_blank"><?php echo $row['12']['important'] ?></a></p>
-					<p><?php echo $row['15']['page_content'] ?><a href="pdfs/TSI/cnc/pc/TSI Pc CNC.rar" download ><?php echo $row['12']['important'] ?></a></p>
+					<p><?php echo $row['15']['page_content'] ?><a href="pdfs/TSI/cnc/pc/TSI PC CNC.rar" download ><?php echo $row['12']['important'] ?></a></p>
 				</div>
 			</div>
 			<div class="table">
@@ -54,17 +54,19 @@ require "header.php";
 							<td class="tbl-cnt" rowspan="3" style="text-align: center;">2000</td>
 							<td><?php echo $row['0']['subjects'] . ' 1' ?></td>
 							<td><a href="pdfs/TSI/cnc/pc/CNC 2000 Physique-1 TSI.pdf" target="_blank"><?php echo $row['8']['page_header'] ?></a></td>
-							<td>-</td>
+							<td><a href="pdfs/TSI/cnc/pc/CNC 2000 Physique-1 TSI Correction.pdf" target="_blank">Correction</a></td>
+
 						</tr>
 						<tr class="tbl-cnt">
 							<td><?php echo $row['0']['subjects'] . ' 2' ?></td>
 							<td><a href="pdfs/TSI/cnc/pc/CNC 2000 Physique-2 TSI.pdf" target="_blank"><?php echo $row['8']['page_header'] ?></a></td>
-							<td>-</td>
+							<td><a href="pdfs/TSI/cnc/pc/CNC 2000 Physique-2 TSI Correction.pdf" target="_blank">Correction</a></td>
+
 						</tr>
 						<tr class="tbl-cnt">
 							<td><?php echo $row['1']['subjects'] ?></td>
 							<td><a href="pdfs/TSI/cnc/pc/CNC Chimie TSI 2000.pdf" target="_blank"><?php echo $row['8']['page_header'] ?></a></td>
-							<td>-</td>
+							<td><a href="pdfs/TSI/cnc/pc/CNC Chimie TSI 2000 Correction.pdf" target="_blank">Correction</a></td>
 						</tr>
 
 						<tr>
@@ -81,7 +83,7 @@ require "header.php";
 						<tr class="tbl-cnt">
 							<td><?php echo $row['1']['subjects'] ?></td>
 							<td><a href="pdfs/TSI/cnc/pc/CNC Chimie TSI 2001.pdf" target="_blank"><?php echo $row['8']['page_header'] ?></a></td>
-							<td>-</td>
+							<td><a href="pdfs/TSI/cnc/pc/CNC Chimie TSI 2001 Correction.pdf" target="_blank">Correction</a></td>
 						</tr>
 						<tr>
 							<td class="tbl-cnt" rowspan="3" style="text-align: center;">2002</td>
@@ -97,7 +99,7 @@ require "header.php";
 						<tr class="tbl-cnt">
 							<td><?php echo $row['1']['subjects'] ?></td>
 							<td><a href="pdfs/TSI/cnc/pc/CNC Chimie TSI 2002.pdf" target="_blank"><?php echo $row['8']['page_header'] ?></a></td>
-							<td>-</td>
+							<td><a href="pdfs/TSI/cnc/pc/CNC Chimie TSI 2002 Correction.pdf" target="_blank">Correction</a></td>
 						</tr>
 						<tr>
 							<td class="tbl-cnt" rowspan="3" style="text-align: center;">2003</td>
@@ -113,7 +115,7 @@ require "header.php";
 						<tr class="tbl-cnt">
 							<td><?php echo $row['1']['subjects'] ?></td>
 							<td><a href="pdfs/TSI/cnc/pc/CNC Chimie TSI 2003.pdf" target="_blank"><?php echo $row['8']['page_header'] ?></a></td>
-							<td>-</td>
+							<td><a href="pdfs/TSI/cnc/pc/CNC Chimie TSI 2003 Correction.pdf" target="_blank">Correction</a></td>
 						</tr>
 						<tr>
 							<td class="tbl-cnt" rowspan="3" style="text-align: center;">2004</td>
@@ -129,7 +131,7 @@ require "header.php";
 						<tr class="tbl-cnt">
 							<td><?php echo $row['1']['subjects'] ?></td>
 							<td><a href="pdfs/TSI/cnc/pc/CNC Chimie TSI 2004.pdf" target="_blank"><?php echo $row['8']['page_header'] ?></a></td>
-							<td>-</td>
+							<td><a href="pdfs/TSI/cnc/pc/CNC Chimie TSI 2004 Correction.pdf" target="_blank">Correction</a></td>
 						</tr>
 						<tr>
 							<td class="tbl-cnt" rowspan="3" style="text-align: center;">2005</td>
@@ -145,7 +147,7 @@ require "header.php";
 						<tr class="tbl-cnt">
 							<td><?php echo $row['1']['subjects'] ?></td>
 							<td><a href="pdfs/TSI/cnc/pc/CNC Chimie TSI 2005.pdf" target="_blank"><?php echo $row['8']['page_header'] ?></a></td>
-							<td>-</td>
+							<td><a href="pdfs/TSI/cnc/pc/CNC Chimie TSI 2005 Correction.pdf" target="_blank">Correction</a></td>
 						</tr>
 						<tr>
 							<td class="tbl-cnt" rowspan="3" style="text-align: center;">2006</td>
@@ -156,12 +158,13 @@ require "header.php";
 						<tr class="tbl-cnt">
 							<td><?php echo $row['0']['subjects'] . ' 2' ?></td>
 							<td><a href="pdfs/TSI/cnc/pc/CNC 2006 Physique-2 TSI.pdf" target="_blank"><?php echo $row['8']['page_header'] ?></a></td>
-							<td>-</td>
+							<td><a href="pdfs/TSI/cnc/pc/CNC 2006 Physique-2 TSI Correction.pdf" target="_blank">Correction</a></td>
+
 						</tr>
 						<tr class="tbl-cnt">
 							<td><?php echo $row['1']['subjects'] ?></td>
 							<td><a href="pdfs/TSI/cnc/pc/CNC Chimie TSI 2006.pdf" target="_blank"><?php echo $row['8']['page_header'] ?></a></td>
-							<td>-</td>
+							<td><a href="pdfs/TSI/cnc/pc/CNC Chimie TSI 2006 Correction.pdf" target="_blank">Correction</a></td>
 						</tr>
 						<tr>
 							<td class="tbl-cnt" rowspan="3" style="text-align: center;">2007</td>
@@ -177,7 +180,7 @@ require "header.php";
 						<tr class="tbl-cnt">
 							<td><?php echo $row['1']['subjects'] ?></td>
 							<td><a href="pdfs/TSI/cnc/pc/CNC Chimie TSI 2007.pdf" target="_blank"><?php echo $row['8']['page_header'] ?></a></td>
-							<td>-</td>
+							<td><a href="pdfs/TSI/cnc/pc/CNC Chimie TSI 2007 Correction.pdf" target="_blank">Correction</a></td>
 						</tr>
 						<tr>
 							<td class="tbl-cnt" rowspan="3" style="text-align: center;">2008</td>
@@ -188,12 +191,12 @@ require "header.php";
 						<tr class="tbl-cnt">
 							<td><?php echo $row['0']['subjects'] . ' 2' ?></td>
 							<td><a href="pdfs/TSI/cnc/pc/CNC 2008 Physique-2 TSI.pdf" target="_blank"><?php echo $row['8']['page_header'] ?></a></td>
-							<td>-</td>
+							<td><a href="pdfs/TSI/cnc/pc/CNC 2008 Physique-2 TSI Correction.pdf" target="_blank">Correction</a></td>
 						</tr>
 						<tr class="tbl-cnt">
 							<td><?php echo $row['1']['subjects'] ?></td>
 							<td><a href="pdfs/TSI/cnc/pc/CNC Chimie TSI 2008.pdf" target="_blank"><?php echo $row['8']['page_header'] ?></a></td>
-							<td>-</td>
+							<td><a href="pdfs/TSI/cnc/pc/CNC Chimie TSI 2008 Correction.pdf" target="_blank">Correction</a></td>
 						</tr>
 						<tr>
 							<td class="tbl-cnt" rowspan="3" style="text-align: center;">2009</td>
@@ -215,7 +218,8 @@ require "header.php";
 							<td class="tbl-cnt" rowspan="3" style="text-align: center;">2010</td>
 							<td><?php echo $row['0']['subjects'] . ' 1' ?></td>
 							<td><a href="pdfs/TSI/cnc/pc/CNC 2010 Physique-1 TSI.pdf" target="_blank"><?php echo $row['8']['page_header'] ?></a></td>
-							<td>-</td>
+							<td><a href="pdfs/TSI/cnc/pc/CNC 2010 Physique-1 TSI Correction.pdf" target="_blank">Correction</a></td>
+
 						</tr>
 						<tr class="tbl-cnt">
 							<td><?php echo $row['0']['subjects'] . ' 2' ?></td>
@@ -231,17 +235,18 @@ require "header.php";
 							<td class="tbl-cnt" rowspan="3" style="text-align: center;">2011</td>
 							<td><?php echo $row['0']['subjects'] . ' 1' ?></td>
 							<td><a href="pdfs/TSI/cnc/pc/CNC 2011 Physique-1 TSI.pdf" target="_blank"><?php echo $row['8']['page_header'] ?></a></td>
-							<td>-</td>
+							<td><a href="pdfs/TSI/cnc/pc/CNC 2011 Physique-1 TSI Correction.pdf" target="_blank">Correction</a></td>
 						</tr>
 						<tr class="tbl-cnt">
 							<td><?php echo $row['0']['subjects'] . ' 2' ?></td>
 							<td><a href="pdfs/TSI/cnc/pc/CNC 2011 Physique-2 TSI.pdf" target="_blank"><?php echo $row['8']['page_header'] ?></a></td>
-							<td>-</td>
+							<td><a href="pdfs/TSI/cnc/pc/CNC 2011 Physique-2 TSI Correction.pdf" target="_blank">Correction</a></td>
+
 						</tr>
 						<tr class="tbl-cnt">
 							<td><?php echo $row['1']['subjects'] ?></td>
 							<td><a href="pdfs/TSI/cnc/pc/CNC Chimie TSI 2011.pdf" target="_blank"><?php echo $row['8']['page_header'] ?></a></td>
-							<td>-</td>
+							<td><a href="pdfs/TSI/cnc/pc/CNC Chimie TSI 2011 Correction.pdf" target="_blank">Correction</a></td>
 						</tr>
 						<tr>
 							<td class="tbl-cnt" rowspan="3" style="text-align: center;">2012</td>
@@ -251,13 +256,13 @@ require "header.php";
 						</tr>
 						<tr class="tbl-cnt">
 							<td><?php echo $row['0']['subjects'] . ' 2' ?></td>
-							<td>-</td>
-							<td>-</td>
+							<td><a href="pdfs/TSI/cnc/pc/CNC 2012 Physique-2 TSI.pdf" target="_blank"><?php echo $row['8']['page_header'] ?></a></td>
+							<td><a href="pdfs/TSI/cnc/pc/CNC 2012 Physique-2 TSI Correction.pdf" target="_blank">Correction</a></td>
 						</tr>
 						<tr class="tbl-cnt">
 							<td><?php echo $row['1']['subjects'] ?></td>
 							<td><a href="pdfs/TSI/cnc/pc/CNC Chimie TSI 2012.pdf" target="_blank"><?php echo $row['8']['page_header'] ?></a></td>
-							<td>-</td>
+							<td><a href="pdfs/TSI/cnc/pc/CNC Chimie TSI 2012 Correction.pdf" target="_blank">Correction</a></td>
 						</tr>
 						<tr>
 							<td class="tbl-cnt" rowspan="3" style="text-align: center;">2013</td>
@@ -268,18 +273,18 @@ require "header.php";
 						<tr class="tbl-cnt">
 							<td><?php echo $row['0']['subjects'] . ' 2' ?></td>
 							<td><a href="pdfs/TSI/cnc/pc/CNC 2013 Physique-2 TSI.pdf" target="_blank"><?php echo $row['8']['page_header'] ?></a></td>
-							<td>-</td>
+							<td><a href="pdfs/TSI/cnc/pc/CNC 2013 Physique-2 TSI Correction.pdf" target="_blank">Correction</a></td>
 						</tr>
 						<tr class="tbl-cnt">
 							<td><?php echo $row['1']['subjects'] ?></td>
 							<td><a href="pdfs/TSI/cnc/pc/CNC Chimie TSI 2013.pdf" target="_blank"><?php echo $row['8']['page_header'] ?></a></td>
-							<td>-</td>
+							<td><a href="pdfs/TSI/cnc/pc/CNC Chimie TSI 2013 Correction.pdf" target="_blank">Correction</a></td>
 						</tr>
 						<tr>
 							<td class="tbl-cnt" rowspan="3" style="text-align: center;">2014</td>
 							<td><?php echo $row['0']['subjects'] . ' 1' ?></td>
 							<td><a href="pdfs/TSI/cnc/pc/CNC 2014 Physique-1 TSI.pdf" target="_blank"><?php echo $row['8']['page_header'] ?></a></td>
-							<td>-</td>
+							<td><a href="pdfs/TSI/cnc/pc/CNC 2014 Physique-1 TSI Correction.pdf" target="_blank">Correction</a></td>
 						</tr>
 						<tr class="tbl-cnt">
 							<td><?php echo $row['0']['subjects'] . ' 2' ?></td>
@@ -300,12 +305,12 @@ require "header.php";
 						<tr class="tbl-cnt">
 							<td><?php echo $row['0']['subjects'] . ' 2' ?></td>
 							<td><a href="pdfs/TSI/cnc/pc/CNC 2015 Physique-2 TSI.pdf" target="_blank"><?php echo $row['8']['page_header'] ?></a></td>
-							<td>-</td>
+							<td><a href="pdfs/TSI/cnc/pc/CNC 2015 Physique-2 TSI Correction.pdf" target="_blank">Correction</a></td>
 						</tr>
 						<tr class="tbl-cnt">
 							<td><?php echo $row['1']['subjects'] ?></td>
 							<td><a href="pdfs/TSI/cnc/pc/CNC Chimie TSI 2015.pdf" target="_blank"><?php echo $row['8']['page_header'] ?></a></td>
-							<td>-</td>
+							<td><a href="pdfs/TSI/cnc/pc/CNC Chimie TSI 2015 Correction.pdf" target="_blank">Correction</a></td>
 						</tr>
 						<tr>
 							<td class="tbl-cnt" rowspan="3" style="text-align: center;">2016</td>
@@ -315,12 +320,13 @@ require "header.php";
 						</tr>
 						<tr class="tbl-cnt">
 							<td><?php echo $row['0']['subjects'] . ' 2' ?></td>
-							<td>-</td>
-							<td>-</td>
+							<td><a href="pdfs/TSI/cnc/pc/CNC 2016 Physique-2 TSI.pdf" target="_blank"><?php echo $row['8']['page_header'] ?></a></td>
+							<td><a href="pdfs/TSI/cnc/pc/CNC 2016 Physique-2 TSI Correction.pdf" target="_blank">Correction</a></td>
+
 						</tr>
 						<tr class="tbl-cnt">
 							<td><?php echo $row['1']['subjects'] ?></td>
-							<td>-</td>
+							<td><a href="pdfs/TSI/cnc/pc/CNC Chimie TSI 2016.pdf" target="_blank"><?php echo $row['8']['page_header'] ?></a></td>
 							<td><a href="pdfs/TSI/cnc/pc/CNC Chimie TSI 2016 Correction.pdf" target="_blank">Correction</a></td>
 						</tr>
 						<tr>
@@ -359,7 +365,8 @@ require "header.php";
 							<td class="tbl-cnt" rowspan="3" style="text-align: center;">2019</td>
 							<td><?php echo $row['0']['subjects'] . ' 1' ?></td>
 							<td><a href="pdfs/TSI/cnc/pc/CNC 2019 Physique-1 TSI.pdf" target="_blank"><?php echo $row['8']['page_header'] ?></a></td>
-							<td>-</td>
+							<td><a href="pdfs/TSI/cnc/pc/CNC 2019 Physique-1 TSI Correction.pdf" target="_blank">Correction</a></td>
+
 						</tr>
 						<tr class="tbl-cnt">
 							<td><?php echo $row['0']['subjects'] . ' 2' ?></td>
@@ -376,7 +383,6 @@ require "header.php";
 							<td><?php echo $row['0']['subjects'] ?></td>
 							<td><a href="pdfs/TSI/cnc/pc/CNC 2020 Physique TSI.pdf" target="_blank"><?php echo $row['8']['page_header'] ?></a></td>
 							<td><a href="pdfs/TSI/cnc/pc/CNC 2020 Physique TSI Correction.pdf" target="_blank">Correction</a></td>
-
 						</tr>
 						<tr class="tbl-cnt">
 							<td><?php echo $row['1']['subjects'] ?></td>
