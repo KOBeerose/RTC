@@ -145,6 +145,11 @@ require "header.php";
 							<td><a href="pdfs/MP/cnc/si/CNC 2019 SI MP.pdf" target="_blank"><?php echo $row['8']['page_header'] ?></a></td>
 							<td><a href="pdfs/MP/cnc/si/CNC 2019 SI MP Correction.pdf" target="_blank">Correction</a></td>
 						</tr>
+						<tr class="tbl-cnt">
+							<td>2020</td>
+							<td><a href="pdfs/MP/cnc/si/CNC 2020 SI MP.pdf" target="_blank"><?php echo $row['8']['page_header'] ?></a></td>
+							<td>-</td>
+						</tr>
 					</table>
 
 
