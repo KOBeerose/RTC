@@ -48,185 +48,73 @@ require "header.php";
 							<tr class="tbl-cnt">
 							<td style="text-align: center;"><?php echo $row['6']['subjects'] ?></td>
 							<td style="text-align: center;"><?php echo $row['7']['subjects'] ?></td>
-							<td colspan="2" style="text-align: center;">Documents</td>
-						</tr>
-						<tr>
-							<td class="tbl-cnt" rowspan="2" style="text-align: center;">2005</td>
-							<td><?php echo $row['4']['subjects'] ?></td>
-							<td>-</td>
-							<td>-</td>
+							<td style="text-align: center;">Documents</td>
 						</tr>
 						<tr class="tbl-cnt">
-							<td><?php echo $row['3']['subjects'] ?></td>
-							<td><a href="pdfs/PSI/cnc/si/CNC 2005 Gm PSI.pdf" target="_blank"><?php echo $row['8']['page_header'] ?></a></td>
-							<td>-</td>
-						</tr>
-						<tr>
-							<td class="tbl-cnt" rowspan="2" style="text-align: center;">2006</td>
-							<td><?php echo $row['4']['subjects'] ?></td>
-							<td>-</td>
-							<td>-</td>
+							<td>2008</td>
+							<td><a href="pdfs/PSI/cnc/si/CNC 2008 SI PSI.pdf" target="_blank"><?php echo $row['8']['page_header'] ?></a></td>
+							<td><a href="pdfs/PSI/cnc/si/CNC 2008 SI PSI Correction.pdf" target="_blank">Correction</a></td>
 						</tr>
 						<tr class="tbl-cnt">
-							<td><?php echo $row['3']['subjects'] ?></td>
-							<td><a href="pdfs/PSI/cnc/si/CNC 2006 Gm PSI.pdf" target="_blank"><?php echo $row['8']['page_header'] ?></a></td>
-							<td>-</td>
-						</tr>
-						<tr>
-							<td class="tbl-cnt" rowspan="2" style="text-align: center;">2007</td>
-							<td><?php echo $row['4']['subjects'] ?></td>
-							<td>-</td>
-							<td>-</td>
+							<td>2009</td>
+							<td><a href="pdfs/PSI/cnc/si/CNC 2009 SI PSI.pdf" target="_blank"><?php echo $row['8']['page_header'] ?></a></td>
+							<td><a href="pdfs/PSI/cnc/si/CNC 2009 SI PSI Correction.pdf" target="_blank">Correction</a></td>
 						</tr>
 						<tr class="tbl-cnt">
-							<td><?php echo $row['3']['subjects'] ?></td>
-							<td><a href="pdfs/PSI/cnc/si/CNC 2007 Gm PSI.pdf" target="_blank"><?php echo $row['8']['page_header'] ?></a></td>
-							<td><a href="pdfs/PSI/cnc/si/CNC 2007 Gm Correction PSI.pdf" target="_blank">Correction</a></td>
-						</tr>
-						<tr>
-							<td class="tbl-cnt" rowspan="2" style="text-align: center;">2008</td>
-							<td><?php echo $row['4']['subjects'] ?></td>
-							<td><a href="pdfs/PSI/cnc/si/CNC 2008 Ge PSI.pdf" target="_blank"><?php echo $row['8']['page_header'] ?></a></td>
-							<td><a href="pdfs/PSI/cnc/si/CNC 2008 Ge Correction PSI.pdf" target="_blank">Correction</a></td>
+							<td>2010</td>
+							<td><a href="pdfs/PSI/cnc/si/CNC 2010 SI PSI.pdf" target="_blank"><?php echo $row['8']['page_header'] ?></a></td>
+							<td><a href="pdfs/PSI/cnc/si/CNC 2010 SI PSI Correction.pdf" target="_blank">Correction</a></td>
 						</tr>
 						<tr class="tbl-cnt">
-							<td><?php echo $row['3']['subjects'] ?></td>
-							<td><a href="pdfs/PSI/cnc/si/CNC 2008 Gm PSI.pdf" target="_blank"><?php echo $row['8']['page_header'] ?></a></td>
-							<td><a href="pdfs/PSI/cnc/si/CNC 2008 Gm Correction PSI.pdf" target="_blank">Correction</a></td>
-						</tr>
-						<tr>
-							<td class="tbl-cnt" rowspan="2" style="text-align: center;">2009</td>
-							<td><?php echo $row['4']['subjects'] ?></td>
-							<td><a href="pdfs/PSI/cnc/si/CNC 2009 Ge PSI.pdf" target="_blank"><?php echo $row['8']['page_header'] ?></a></td>
-							<td><a href="pdfs/PSI/cnc/si/CNC 2009 Ge Correction PSI.pdf" target="_blank">Correction</a></td>
+							<td>2011</td>
+							<td><a href="pdfs/PSI/cnc/si/CNC 2011 SI PSI.pdf" target="_blank"><?php echo $row['8']['page_header'] ?></a></td>
+							<td><a href="pdfs/PSI/cnc/si/CNC 2011 SI PSI Correction.pdf" target="_blank">Correction</a></td>
 						</tr>
 						<tr class="tbl-cnt">
-							<td><?php echo $row['3']['subjects'] ?></td>
-							<td><a href="pdfs/PSI/cnc/si/CNC 2009 Gm PSI.pdf" target="_blank"><?php echo $row['8']['page_header'] ?></a></td>
-							<td>-</td>
-						</tr>
-						<tr>
-							<td class="tbl-cnt" rowspan="2" style="text-align: center;">2010</td>
-							<td><?php echo $row['4']['subjects'] ?></td>
-							<td><a href="pdfs/PSI/cnc/si/CNC 2010 Ge PSI.pdf" target="_blank"><?php echo $row['8']['page_header'] ?></a></td>
-							<td><a href="pdfs/PSI/cnc/si/CNC 2010 Ge Correction PSI.pdf" target="_blank">Correction</a></td>
+							<td>2012</td>
+							<td><a href="pdfs/PSI/cnc/si/CNC 2012 SI PSI.pdf" target="_blank"><?php echo $row['8']['page_header'] ?></a></td>
+							<td><a href="pdfs/PSI/cnc/si/CNC 2012 SI PSI Correction.pdf" target="_blank">Correction</a></td>
 						</tr>
 						<tr class="tbl-cnt">
-							<td><?php echo $row['3']['subjects'] ?></td>
-							<td><a href="pdfs/PSI/cnc/si/CNC 2010 Gm PSI.pdf" target="_blank"><?php echo $row['8']['page_header'] ?></a></td>
-							<td><a href="pdfs/PSI/cnc/si/CNC 2010 Gm Correction PSI.pdf" target="_blank">Correction</a></td>
-						</tr>
-						<tr>
-							<td class="tbl-cnt" rowspan="2" style="text-align: center;">2011</td>
-							<td><?php echo $row['4']['subjects'] ?></td>
-							<td><a href="pdfs/PSI/cnc/si/CNC 2011 Gm PSI.pdf" target="_blank"><?php echo $row['8']['page_header'] ?></a></td>
-							<td><a href="pdfs/PSI/cnc/si/CNC 2011 Gm Correction PSI.pdf" target="_blank">Correction</a></td>
+							<td>2013</td>
+							<td><a href="pdfs/PSI/cnc/si/CNC 2013 SI PSI.pdf" target="_blank"><?php echo $row['8']['page_header'] ?></a></td>
+							<td><a href="pdfs/PSI/cnc/si/CNC 2013 SI PSI Correction.pdf" target="_blank">Correction</a></td>
 						</tr>
 						<tr class="tbl-cnt">
-							<td><?php echo $row['3']['subjects'] ?></td>
-							<td><a href="pdfs/PSI/cnc/si/CNC 2011 Ge PSI.pdf" target="_blank"><?php echo $row['8']['page_header'] ?></a></td>
+							<td>2014</td>
+							<td><a href="pdfs/PSI/cnc/si/CNC 2014 SI PSI.pdf" target="_blank"><?php echo $row['8']['page_header'] ?></a></td>
+							<td><a href="pdfs/PSI/cnc/si/CNC 2014 SI PSI Correction.pdf" target="_blank">Correction</a></td>
+						</tr>
+						<tr class="tbl-cnt">
+							<td>2015</td>
+							<td><a href="pdfs/PSI/cnc/si/CNC 2015 SI PSI.pdf" target="_blank"><?php echo $row['8']['page_header'] ?></a></td>
+							<td><a href="pdfs/PSI/cnc/si/CNC 2015 SI PSI Correction.pdf" target="_blank">Correction</a></td>
+						</tr>
+						<tr class="tbl-cnt">
+							<td>2016</td>
+							<td><a href="pdfs/PSI/cnc/si/CNC 2016 SI PSI.pdf" target="_blank"><?php echo $row['8']['page_header'] ?></a></td>
+							<td><a href="pdfs/PSI/cnc/si/CNC 2016 SI PSI Correction.pdf" target="_blank">Correction</a></td>
+						</tr>
+						<tr class="tbl-cnt">
+							<td>2017</td>
+							<td><a href="pdfs/PSI/cnc/si/CNC 2017 SI PSI.pdf" target="_blank"><?php echo $row['8']['page_header'] ?></a></td>
+							<td><a href="pdfs/PSI/cnc/si/CNC 2017 SI PSI Correction.pdf" target="_blank">Correction</a></td>
+						</tr>
+						<tr class="tbl-cnt">
+							<td>2018</td>
+							<td><a href="pdfs/PSI/cnc/si/CNC 2018 SI PSI.pdf" target="_blank"><?php echo $row['8']['page_header'] ?></a></td>
+							<td><a href="pdfs/PSI/cnc/si/CNC 2018 SI PSI Correction.pdf" target="_blank">Correction</a></td>
+						</tr>
+						<tr class="tbl-cnt">
+							<td>2019</td>
+							<td><a href="pdfs/PSI/cnc/si/CNC 2019 SI PSI.pdf" target="_blank"><?php echo $row['8']['page_header'] ?></a></td>
+							<td><a href="pdfs/PSI/cnc/si/CNC 2019 SI PSI Correction.pdf" target="_blank">Correction</a></td>
+						</tr>
+						<tr class="tbl-cnt">
+							<td>2020</td>
+							<td><a href="pdfs/PSI/cnc/si/CNC 2020 SI PSI.pdf" target="_blank"><?php echo $row['8']['page_header'] ?></a></td>
 							<td>-</td>
 						</tr>
-						<tr>
-							<td class="tbl-cnt" rowspan="2" style="text-align: center;">2012</td>
-							<td><?php echo $row['4']['subjects'] ?></td>
-							<td><a href="pdfs/PSI/cnc/si/CNC 2012 Ge PSI.pdf" target="_blank"><?php echo $row['8']['page_header'] ?></a></td>
-							<td><a href="pdfs/PSI/cnc/si/CNC 2012 Ge Correction PSI.pdf" target="_blank">Correction</a></td>
-						</tr>
-						<tr class="tbl-cnt">
-							<td><?php echo $row['3']['subjects'] ?></td>
-							<td><a href="pdfs/PSI/cnc/si/CNC 2012 Gm PSI.pdf" target="_blank"><?php echo $row['8']['page_header'] ?></a></td>
-							<td><a href="pdfs/PSI/cnc/si/CNC 2012 Gm Correction PSI.pdf" target="_blank">Correction</a></td>
-						</tr>
-						<tr>
-							<td class="tbl-cnt" rowspan="2" style="text-align: center;">2013</td>
-							<td><?php echo $row['4']['subjects'] ?></td>
-							<td><a href="pdfs/PSI/cnc/si/CNC 2013 Ge PSI.pdf" target="_blank"><?php echo $row['8']['page_header'] ?></a></td>
-							<td>-</td>
-						</tr>
-						<tr class="tbl-cnt">
-							<td><?php echo $row['3']['subjects'] ?></td>
-							<td><a href="pdfs/PSI/cnc/si/CNC 2013 Gm PSI.pdf" target="_blank"><?php echo $row['8']['page_header'] ?></a></td>
-							<td><a href="pdfs/PSI/cnc/si/CNC 2013 Gm Correction PSI.pdf" target="_blank">Correction</a></td>
-						</tr>
-						<tr>
-							<td class="tbl-cnt" rowspan="2" style="text-align: center;">2014</td>
-							<td><?php echo $row['4']['subjects'] ?></td>
-							<td>-</td>
-							<td>-</td>
-						</tr>
-						<tr class="tbl-cnt">
-							<td><?php echo $row['3']['subjects'] ?></td>
-							<td><a href="pdfs/PSI/cnc/si/CNC 2014 Gm PSI.pdf" target="_blank"><?php echo $row['8']['page_header'] ?></a></td>
-							<td><a href="pdfs/PSI/cnc/si/CNC 2014 Gm Correction PSI.pdf" target="_blank">Correction</a></td>
-						</tr>
-						<tr>
-							<td class="tbl-cnt" rowspan="2" style="text-align: center;">2015</td>
-							<td><?php echo $row['4']['subjects'] ?></td>
-							<td><a href="pdfs/PSI/cnc/si/CNC 2015 Ge PSI.pdf" target="_blank"><?php echo $row['8']['page_header'] ?></a></td>
-							<td><a href="pdfs/PSI/cnc/si/CNC 2015 Ge Correction PSI.pdf" target="_blank">Correction</a></td>
-						</tr>
-						<tr class="tbl-cnt">
-							<td><?php echo $row['3']['subjects'] ?></td>
-							<td><a href="pdfs/PSI/cnc/si/CNC 2015 Gm PSI.pdf" target="_blank"><?php echo $row['8']['page_header'] ?></a></td>
-							<td><a href="pdfs/PSI/cnc/si/CNC 2015 Gm Correction PSI.pdf" target="_blank">Correction</a></td>
-						</tr>
-						<tr>
-							<td class="tbl-cnt" rowspan="2" style="text-align: center;">2016</td>
-							<td><?php echo $row['4']['subjects'] ?></td>
-							<td><a href="pdfs/PSI/cnc/si/CNC 2016 Ge PSI.pdf" target="_blank"><?php echo $row['8']['page_header'] ?></a></td>
-							<td><a href="pdfs/PSI/cnc/si/CNC 2016 Ge Correction PSI.pdf" target="_blank">Correction</a></td>
-						</tr>
-						<tr class="tbl-cnt">
-							<td><?php echo $row['3']['subjects'] ?></td>
-							<td><a href="pdfs/PSI/cnc/si/CNC 2016 Gm PSI.pdf" target="_blank"><?php echo $row['8']['page_header'] ?></a></td>
-							<td><a href="pdfs/PSI/cnc/si/CNC 2016 Gm Correction PSI.pdf" target="_blank">Correction</a></td>
-						</tr>
-						<tr>
-							<td class="tbl-cnt" rowspan="2" style="text-align: center;">2017</td>
-							<td><?php echo $row['4']['subjects'] ?></td>
-							<td><a href="pdfs/PSI/cnc/si/CNC 2017 Ge PSI.pdf" target="_blank"><?php echo $row['8']['page_header'] ?></a></td>
-							<td><a href="pdfs/PSI/cnc/si/CNC 2017 Ge Correction PSI.pdf" target="_blank">Correction</a></td>
-						</tr>
-						<tr class="tbl-cnt">
-							<td><?php echo $row['3']['subjects'] ?></td>
-							<td><a href="pdfs/PSI/cnc/si/CNC 2017 Gm PSI.pdf" target="_blank"><?php echo $row['8']['page_header'] ?></a></td>
-							<td><a href="pdfs/PSI/cnc/si/CNC 2017 Gm Correction PSI.pdf" target="_blank">Correction</a></td>
-						</tr>
-						<tr>
-							<td class="tbl-cnt" rowspan="2" style="text-align: center;">2018</td>
-							<td><?php echo $row['4']['subjects'] ?></td>
-							<td><a href="pdfs/PSI/cnc/si/CNC 2018 Ge PSI.pdf" target="_blank"><?php echo $row['8']['page_header'] ?></a></td>
-							<td><a href="pdfs/PSI/cnc/si/CNC 2018 Ge Correction PSI.pdf" target="_blank">Correction</a></td>
-						</tr>
-						<tr class="tbl-cnt">
-							<td><?php echo $row['3']['subjects'] ?></td>
-							<td><a href="pdfs/PSI/cnc/si/CNC 2018 Gm PSI.pdf" target="_blank"><?php echo $row['8']['page_header'] ?></a></td>
-							<td><a href="pdfs/PSI/cnc/si/CNC 2018 Gm Correction PSI.pdf" target="_blank">Correction</a></td>
-						</tr>
-						<tr>
-							<td class="tbl-cnt" rowspan="2" style="text-align: center;">2019</td>
-							<td><?php echo $row['4']['subjects'] ?></td>
-							<td><a href="pdfs/PSI/cnc/si/CNC 2019 Ge PSI.pdf" target="_blank"><?php echo $row['8']['page_header'] ?></a></td>
-							<td><a href="pdfs/PSI/cnc/si/CNC 2019 Ge Correction PSI.pdf" target="_blank">Correction</a></td>
-						</tr>
-						<tr class="tbl-cnt">
-							<td><?php echo $row['3']['subjects'] ?></td>
-							<td><a href="pdfs/PSI/cnc/si/CNC 2019 Gm PSI.pdf" target="_blank"><?php echo $row['8']['page_header'] ?></a></td>
-							<td><a href="pdfs/PSI/cnc/si/CNC 2019 Gm Correction PSI.pdf" target="_blank">Correction</a></td>
-						</tr>
-						<tr>
-							<td class="tbl-cnt" rowspan="2" style="text-align: center;">2020</td>
-							<td><?php echo $row['4']['subjects'] ?></td>
-							<td><a href="pdfs/PSI/cnc/si/CNC 2020 Ge PSI.pdf" target="_blank"><?php echo $row['8']['page_header'] ?></a></td>
-							<td>-</td>
-						</tr>
-						<tr class="tbl-cnt">
-							<td><?php echo $row['3']['subjects'] ?></td>
-							<td><a href="pdfs/PSI/cnc/si/CNC 2020 Gm PSI.pdf" target="_blank"><?php echo $row['8']['page_header'] ?></a></td>
-							<td>-</td>
-						</tr>
-
 					</table>
 
 
