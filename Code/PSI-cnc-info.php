@@ -71,19 +71,19 @@ require "header.php";
 						<tr>
 							<td class="tbl-cnt" rowspan="1" style="text-align: center;">2018</td>
 							<td><?php echo $row['2']['subjects'] ?></td>
-							<td><a href="pdfs/PSI/cnc/info/CNC Info 2018.pdf" target="_blank"><?php echo $row['8']['page_header'] ?></a></td>
-							<td><a href="pdfs/PSI/cnc/info/CNC Info 2018 Correction.pdf" target="_blank">Correction</a></td>
+							<td><a href="pdfs/PSI/cnc/info/CNC Info 2018 PSI.pdf" target="_blank"><?php echo $row['8']['page_header'] ?></a></td>
+							<td><a href="pdfs/PSI/cnc/info/CNC Info 2018 PSI Correction.pdf" target="_blank">Correction</a></td>
 						</tr>
 						<tr>
 							<td class="tbl-cnt" rowspan="1" style="text-align: center;">2019</td>
 							<td><?php echo $row['2']['subjects'] ?></td>
-							<td><a href="pdfs/PSI/cnc/info/CNC Info 2019.pdf" target="_blank"><?php echo $row['8']['page_header'] ?></a></td>
-							<td><a href="pdfs/PSI/cnc/info/CNC Info 2019 Correction.pdf" target="_blank">Correction</a></td>
+							<td><a href="pdfs/PSI/cnc/info/CNC Info 2019 PSI.pdf" target="_blank"><?php echo $row['8']['page_header'] ?></a></td>
+							<td><a href="pdfs/PSI/cnc/info/CNC Info 2019 PSI Correction.pdf" target="_blank">Correction</a></td>
 						</tr>
 						<tr>
 							<td class="tbl-cnt" rowspan="1" style="text-align: center;">2020</td>
 							<td><?php echo $row['2']['subjects'] ?></td>
-							<td><a href="pdfs/PSI/cnc/info/CNC Info 2020.pdf" target="_blank"><?php echo $row['8']['page_header'] ?></a></td>
+							<td><a href="pdfs/PSI/cnc/info/CNC Info 2020 PSI.pdf" target="_blank"><?php echo $row['8']['page_header'] ?></a></td>
 							<td>-</td>
 						</tr>
 
