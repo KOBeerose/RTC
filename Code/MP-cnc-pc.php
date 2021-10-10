@@ -382,6 +382,22 @@ require "header.php";
 							<td><a href="pdfs/MP/cnc/pc/CNC 2020 Chimie MP.pdf" target="_blank"><?php echo $row['8']['page_header'] ?></a></td>
 							<td><a href="pdfs/MP/cnc/pc/CNC 2020 Chimie MP Correction.pdf" target="_blank">Correction</a></td>
 						</tr>
+                        <tr>
+							<td class="tbl-cnt" rowspan="3" style="text-align: center;">2021</td>
+							<td><?php echo $row['0']['subjects'] . ' 1' ?></td>
+							<td><a href="pdfs/MP/cnc/pc/CNC 2021 Physique-1 MP.pdf" target="_blank"><?php echo $row['8']['page_header'] ?></a></td>
+							<td>-</td>
+						</tr>
+						<tr class="tbl-cnt">
+							<td><?php echo $row['0']['subjects'] . ' 2' ?></td>
+							<td><a href="pdfs/MP/cnc/pc/CNC 2021 Physique-2 MP.pdf" target="_blank"><?php echo $row['8']['page_header'] ?></a></td>
+							<td>-</td>
+						</tr>
+						<tr class="tbl-cnt">
+							<td><?php echo $row['1']['subjects'] ?></td>
+							<td><a href="pdfs/MP/cnc/pc/CNC 2021 Chimie MP.pdf" target="_blank"><?php echo $row['8']['page_header'] ?></a></td>
+							<td><a href="pdfs/MP/cnc/pc/CNC 2021 Chimie MP Correction.pdf" target="_blank">Correction</a></td>
+						</tr>						
 					</table>
 
 
