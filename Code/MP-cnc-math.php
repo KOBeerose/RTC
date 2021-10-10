@@ -275,7 +275,17 @@ require "header.php";
 							<td>Maths </td>
 							<td><a href="pdfs/MP/cnc/math/CNC 2020 Math MP.pdf" target="_blank"><?php echo $row['8']['page_header'] ?></a></td>
 							<td><a href="pdfs/MP/cnc/math/CNC 2020 Math MP Correction.pdf" target="_blank">Correction</a></td>
-
+						</tr>
+						<tr>
+							<td class="tbl-cnt" rowspan="2" style="text-align: center;">2021</td>
+							<td>Math 1</td>
+							<td><a href="pdfs/MP/cnc/math/CNC 2021 Math-1 MP.pdf" target="_blank"><?php echo $row['8']['page_header'] ?></a></td>
+							<td><a href="pdfs/MP/cnc/math/CNC 2021 Math-1 MP Correction.pdf" target="_blank">Correction</a></td>
+						</tr>
+						<tr class="tbl-cnt">
+							<td>Math 2</td>
+							<td><a href="pdfs/MP/cnc/math/CNC 2021 Math-2 MP.pdf" target="_blank"><?php echo $row['8']['page_header'] ?></a></td>
+							<td><a href="pdfs/MP/cnc/math/CNC 2021 Math-2 MP Correction.pdf" target="_blank">Correction</a></td>
 						</tr>
 					</table>
 
