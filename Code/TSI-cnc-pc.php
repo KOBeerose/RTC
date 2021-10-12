@@ -6,7 +6,6 @@ require "header.php";
 	<meta name="description" content="Road To CNC is a modern platform for cpge students, made by previous students. We provide a free platform where you can find documents, books and valuable pcrmation." />
 
 </head>
-
 	<aside id="fh5co-hero">
 		<div class="flexslider">
 			<ul class="slides">
@@ -405,7 +404,7 @@ require "header.php";
 							<td><?php echo $row['1']['subjects'] ?></td>
 							<td><a href="pdfs/TSI/cnc/pc/CNC Chimie TSI 2021.pdf" target="_blank"><?php echo $row['8']['page_header'] ?></a></td>
 							<td><a href="pdfs/TSI/cnc/pc/CNC Chimie TSI 2021 Correction.pdf" target="_blank">Correction</a></td>
-						</tr>						
+						</tr>				
 					</table>
 
 

@@ -6,7 +6,6 @@ require "header.php";
 	<meta name="description" content="Road To CNC is a modern platform for cpge students, made by previous students. We provide a free platform where you can find documents, books and valuable information." />
 
 </head>
-
 	<aside id="fh5co-hero">
 		<div class="flexslider">
 			<ul class="slides">
@@ -269,9 +268,9 @@ require "header.php";
 							<td>Math 2</td>
 							<td><a href="pdfs/MP/cnc/math/CNC 2019 Math-2 MP.pdf" target="_blank"><?php echo $row['8']['page_header'] ?></a></td>
 							<td><a href="pdfs/MP/cnc/math/CNC 2019 Math-2 MP Correction.pdf" target="_blank">Correction</a></td>
-						</tr>
+						</tr> 
 						<tr>
-							<td class="tbl-cnt" rowspan="2" style="text-align: center;">2020</td>
+							<td class="tbl-cnt" rowspan="1" style="text-align: center;">2020</td>
 							<td>Maths </td>
 							<td><a href="pdfs/MP/cnc/math/CNC 2020 Math MP.pdf" target="_blank"><?php echo $row['8']['page_header'] ?></a></td>
 							<td><a href="pdfs/MP/cnc/math/CNC 2020 Math MP Correction.pdf" target="_blank">Correction</a></td>
@@ -287,6 +286,7 @@ require "header.php";
 							<td><a href="pdfs/MP/cnc/math/CNC 2021 Math-2 MP.pdf" target="_blank"><?php echo $row['8']['page_header'] ?></a></td>
 							<td><a href="pdfs/MP/cnc/math/CNC 2021 Math-2 MP Correction.pdf" target="_blank">Correction</a></td>
 						</tr>
+
 					</table>
 
 
