@@ -61,7 +61,7 @@ require "header.php";
 							<td><a href="pdfs/TSI/spe-crs/gm/Principe Fondamental de la Dynamique.pdf" target="_blank">Principe Fondamental de la Dynamique </a></td>
 						</tr>
 						<tr class="tbl-cnt">
-							<td><a href="pdfs/TSI/spe-crs/gm/Equilibrage dynamique.pdf" target="_blank"> Equilibrage dynamique </a></td>
+							<td><a href="pdfs/TSI/spe-crs/gm/Equilibrage dynamique .pdf" target="_blank"> Equilibrage dynamique </a></td>
 						</tr>
 						<tr>
 							<td><a href="pdfs/TSI/spe-crs/gm/Approche énergétique.pdf" target="_blank">Approche énergétique</a></td>
